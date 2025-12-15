@@ -24,13 +24,6 @@
 
   - GitHub (version control)
 
-📂 Project Structure
-  📁 PBIX
-     └── Power BI files (.pbix)
-
-  📁 PDF
-     └── Exported dashboards in PDF format
-
 📈 Dashboard Features
 
   - Data overview
